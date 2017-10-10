@@ -13,4 +13,6 @@ python3 analysis.py
 
 Final result
 
+*do note that 18 of scraped pictures have significant white borders*
+
 ![graph](rothko.png)

@@ -43,5 +43,6 @@ for file in img_list:
 
 plt.plot(years, bringhtness, "o", label='bright')
 plt.plot(years, saturation, "o", label='sat')
+plt.title('Mark Rothko Paintings Saturation and Brightness vs Time')
 plt.legend()
 plt.show()
